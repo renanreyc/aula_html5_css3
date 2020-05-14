@@ -1,0 +1,40 @@
+body {
+    background: #B2B2F4;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+header {
+    margin-top: 60px;
+}
+
+h1 {
+    color: blue;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+P{
+    font-size: 18px;
+}
+
+footer{
+    margin-bottom: 30px;
+    background: black;
+    color: white;
+    font-family: Verdana;
+    font-size: 12px;
+    padding: 8px;
+}
+
+.img_padrao{
+    margin-bottom: 20px;
+    width: 300px ;
+}
+
+.logo {
+    width: 40px;
+}
